@@ -1,2 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0"><channel><title>Actualités Cinéma - AlloCiné</title><link>https://www.allocine.fr/news/cinema/</link><description>Les dernières actualités cinéma issues de AlloCiné.</description><language>fr</language><item><title>Exclu AlloCiné : un film d'action français enflamme le box-office</title><link>https://www.allocine.fr/article/fichearticle_gen_carticle=1000052090.html</link><description>&lt;![CDATA[&lt;img src="https://fr.web.img6.acsta.net/c_310_420/pictures/23/11/21/10/57/0483966.jpg"/&gt;&lt;br&gt;Découvrez la bande-annonce du nouveau film d'action français qui cartonne au cinéma.]]&gt;</description><pubDate>Wed, 21 May 2025 18:34:46 GMT</pubDate></item><item><title>Sortie événement : ce thriller haletant va vous scotcher à votre siège</title><link>https://www.allocine.fr/article/fichearticle_gen_carticle=1000052078.html</link><description>&lt;![CDATA[&lt;img src="https://fr.web.img6.acsta.net/c_310_420/pictures/24/01/12/10/25/5857425.jpg"/&gt;&lt;br&gt;Un suspense glaçant et une mise en scène maîtrisée : le thriller du mois est arrivé.]]&gt;</description><pubDate>Wed, 21 May 2025 18:34:46 GMT</pubDate></item></channel></rss>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Actualités Cinéma - AlloCiné</title>
+    <link>https://www.allocine.fr/news/cinema/</link>
+    <description>Les dernières actualités cinéma issues de AlloCiné.</description>
+    <language>fr</language>
+
+    <item>
+      <title>Exclu AlloCiné : un film d'action français enflamme le box-office</title>
+      <link>https://www.allocine.fr/article/fichearticle_gen_carticle=1000052090.html</link>
+      <description><![CDATA[<img src="https://fr.web.img6.acsta.net/c_310_420/pictures/23/11/21/10/57/0483966.jpg"/><br>Découvrez la bande-annonce du nouveau film d'action français qui cartonne au cinéma.]]></description>
+      <media:content url="https://fr.web.img6.acsta.net/c_310_420/pictures/23/11/21/10/57/0483966.jpg" type="image/jpeg" />
+      <pubDate>Wed, 21 May 2025 18:34:46 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Sortie événement : ce thriller haletant va vous scotcher à votre siège</title>
+      <link>https://www.allocine.fr/article/fichearticle_gen_carticle=1000052078.html</link>
+      <description><![CDATA[<img src="https://fr.web.img6.acsta.net/c_310_420/pictures/24/01/12/10/25/5857425.jpg"/><br>Un suspense glaçant et une mise en scène maîtrisée : le thriller du mois est arrivé.]]></description>
+      <media:content url="https://fr.web.img6.acsta.net/c_310_420/pictures/24/01/12/10/25/5857425.jpg" type="image/jpeg" />
+      <pubDate>Wed, 21 May 2025 18:34:46 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
